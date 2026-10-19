@@ -4,6 +4,8 @@
 
 ### About
 
-I'm Vladislav, a DevOps engineer. I work with Kubernetes and Terraform, and use Argo CD to manage deployments.
+I'm Vladyslav, a Senior DevOps Engineer with 6+ years of experience running production infrastructure on AWS, GCP and on-premises.
 
-I'm also a Neovim user. My setup is based on [LazyVim](https://github.com/nekonekii/lazyvim-config), and I like tinkering with custom keyboards.
+I work with Kubernetes, Terraform and GitOps to automate infrastructure and keep releases reliable.
+
+[Neovim / LazyVim](https://github.com/nekonekii/lazyvim-config) user.
