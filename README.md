@@ -4,8 +4,6 @@
 
 ### About
 
-I'm Vladyslav, a Senior DevOps Engineer with 6+ years of experience running production infrastructure on AWS, GCP and on-premises.
-
-I work with Kubernetes, Terraform and GitOps to automate infrastructure and keep releases reliable.
+I'm Vladyslav, a Senior DevOps Engineer with 6+ years of experience building and running Kubernetes-based platforms across AWS, GCP and on-premises.
 
 [Neovim / LazyVim](https://github.com/nekonekii/lazyvim-config) user.
