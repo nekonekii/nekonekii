@@ -6,4 +6,6 @@
 
 I'm Vladyslav, a Senior DevOps Engineer with 6+ years of experience building and running Kubernetes-based platforms across AWS, GCP and on-premises.
 
+I work with Kubernetes infrastructure, focusing on automation and reliable deployments.
+
 [Neovim / LazyVim](https://github.com/nekonekii/lazyvim-config) user.
