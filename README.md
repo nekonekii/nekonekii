@@ -7,13 +7,3 @@
 I'm Vladislav, a DevOps engineer. I work with Kubernetes and Terraform, and use Argo CD to manage deployments.
 
 I'm also a Neovim user. My setup is based on [LazyVim](https://github.com/nekonekii/lazyvim-config), and I like tinkering with custom keyboards.
-
-### Toolbox
-
-| | Tools I use |
-| :--- | :--- |
-| Infrastructure | `Terraform` · `Terramate` · `AWS EKS` · `IAM` |
-| Platform & delivery | `Kubernetes` · `Argo CD` · `Kustomize` · `Docker` |
-| Configuration & secrets | `Ansible` · `Vault` · `External Secrets` |
-| Traffic | `Traefik` · `Cloudflare Tunnel` |
-| Editor | `Neovim` · `LazyVim` |
